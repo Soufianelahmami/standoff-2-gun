@@ -40,14 +40,14 @@
 
 },
   "my_data":[
-    {"desc1":"description1 ser"},
-    {"desc2":"description2 ser"},
-    {"desc3":"description3 ser"},
-    {"desc4":"description4 ser"},
-    {"desc5":"description5 ser"},
-    {"desc6":"description5 ser"},
-    {"desc7":"description5 ser"},
-    {"descd":"description d ser"}
+    {"desc1":"The Glock is a reliable semi-automatic pistol with a moderate rate of fire"},
+    {"desc2":"The Desert Eagle is a powerful semi-automatic pistol known for its high damage output"},
+    {"desc3":"It has a slow rate of fire but compensates with its ability to eliminate enemies in a few shots"},
+    {"desc4":"The UMP45 is a compact submachine gun with moderate damage and a steady rate of fire."},
+    {"desc5":"It provides excellent stability and manageable recoil, making it reliable for mid-range encounters"},
+    {"desc6":"The UMP45's slower fire rate can be compensated by accurate aiming and controlled bursts"},
+    {"desc7":"The AK-47's recoil can be challenging to control, requiring skillful handling and burst firing"},
+    {"descd":"It provides balanced performance in terms of damage, rate of fire, and mobility"}
   ]
 
 }
